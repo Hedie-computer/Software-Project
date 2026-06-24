@@ -12,3 +12,6 @@ We are learning how to use GitHub, branches, pull requests and collaboration.
 Each member will work on a separate branch.
 Pull requests will be reviewed and merged by the repository owner.
 # Software-Project
+## Neda's Contribution
+- Task: Completed the project documentation and added structure.
+- Status: Done.
