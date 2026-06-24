@@ -1,4 +1,4 @@
-# Software Engineering Lab Project - Phase 2
+# Software Engineering Lab Project - last Phase
 
 ## Group Members
 - Hediyeh (Team Leader)
