@@ -1,17 +1,14 @@
-# Software Engineering Lab Project - last Phase
+# 🚀 Professional To-Do List Project
 
-## Group Members
-- Hediyeh (Team Leader)
-- Neda
+### 👥 Team & Contributions
+- **Hediyeh (@Hedie-computer):** Project Manager, Repository Setup, and UI Logic.
+- **Neda (@Neda-project):** Backend Logic and Task Management Functions.
 
-## Project Description
-This project is for Software Engineering Lab.
-We are learning how to use GitHub, branches, pull requests and collaboration.
+### 🛠️ Features
+- Object-Oriented Programming (OOP)
+- Add, View, and Delete Tasks
+- Professional Git Workflow (Branching & Merging)
 
-## Structure
-Each member will work on a separate branch.
-Pull requests will be reviewed and merged by the repository owner.
-# Software-Project
-## Neda's Contribution
-- Task: Completed the project documentation and added structure.
-- Status: Done.
+---
+*Created for Software Engineering Lab*سسس
+
