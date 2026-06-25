@@ -10,5 +10,5 @@
 - Professional Git Workflow (Branching & Merging)
 
 ---
-*Created for Software Engineering Lab*سسس
+*Created for Software Engineering Lab*
 
