@@ -1,6 +1,6 @@
 """
 Project: Professional To-Do List
-Team Members: Hedie Navad Mohammad, Neda Hosseinzadeh
+Team Members: Hedie NavadMohammad, Neda Hosseinzadeh
 Course: Software Engineering Lab
 Description: A task management application with Priority, Timestamp, and Filtering features.
 """
