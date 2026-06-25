@@ -1,11 +1,11 @@
 # 🚀 Professional To-Do List Project
 
 ### 👥 Team Members
-- **Hediyeh Navad Mohammad (@Hedie-computer):** Project Manager & UI Logic
+- **Hedie Navad Mohammad (@Hedie-computer):** Project Manager & UI Logic
 - **Neda Hosseinzadeh (@Neda-project):** Backend Logic & Task Management
 
 ### 🛠️ Roles & Contributions
-- **Hediyeh:** Responsible for repository architecture, documentation, and managing the Git workflow (Branching/Merging).
+- **Hedie:** Responsible for repository architecture, documentation, and managing the Git workflow (Branching/Merging).
 - **Neda:** Responsible for implementing the `TodoList` class and its core functional methods.
 
 ### ⛓️ Project Workflow & History
